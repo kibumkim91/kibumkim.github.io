@@ -25,21 +25,13 @@ permalink: /projects/
 
 ## 활동사진
 
-<div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/emart/emart1.jpg " height="800">
-</div>
 
-<div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/emart/emart5.jpg " height="313">
-</div>
 
-<div style="border: 1px ; float: left; width: 50%;">
    <img src="/images/emart/emart3.jpg " height="100%">
-</div>
 
-<div style="border: 1px ; float: left; width: 50%;">
    <img src="/images/emart/emart7.jpg " height="100%">
-</div>
 
 
 ## 성취 내용
@@ -71,9 +63,7 @@ permalink: /projects/
 
 <img src="/images/emart/Team2.jpg " height="400">
 
-<div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/Team1.jpg " width="500" height="313">
-</div>
+<img src="/images/emart/Team1.jpg " width="500" height="313">
 
 
 ## 성취 내용
@@ -112,26 +102,18 @@ permalink: /projects/
 # *● 기타 활동*
 
 ##### 1. 부평구문화재단 시민기획단 활동
-<div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/etc/etc1.jpg " height="500">
-</div>
 
 
 ##### 2. 전국성인문해교육 진행
-<div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/etc/ect4.jpg "  height="500">
-</div>
 
 
 ##### 3. 곤지암 리조트 C/S 및 마케팅 업무 담당
-<div style="border: 1px ; float: left; width: 30%;">
   <img src="/images/etc/etc7.jpg " height="500"   >
-</div>
 
 
 ##### 4. 문예창작 동아리 활동
-<div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/etc/etc8.jpg "  height="500" >
-</div>
 
 - - -
