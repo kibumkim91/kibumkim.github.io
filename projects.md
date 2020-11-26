@@ -134,18 +134,11 @@ permalink: /projects/
 <div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/etc/etc1.jpg " width="500" height="340">
 </div>
-<div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/etc/etc2.jpg " width="500" height="340">
-</div>
-![이마트 이미지](/images/etc/etc3.jpg )
 
 ##### 2. 전국성인문해교육 진행
 
 <div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/etc/ect4.jpg "  height="500">
-</div>
-<div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/etc/etc5.jpg "  height="500">
 </div>
 
 
@@ -154,18 +147,12 @@ permalink: /projects/
 <div style="border: 1px ; float: left; width: 50%;">
   <img src="/images/etc/etc7.jpg " >
 </div>
-<div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/etc/etc6.jpg " >
-</div>
 
 
 ##### 4. 문예창작 동아리 활동
 
 <div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/etc/etc7.jpg " >
-</div>
-<div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/etc/etc6.jpg " >
+  <img src="/images/etc/etc8.jpg " >
 </div>
 
 - - -
