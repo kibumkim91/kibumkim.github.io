@@ -34,7 +34,7 @@ permalink: /projects/
 </div>
 
 <div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/emart3.jpg " width="500" height="313">
+   <img src="/images/emart/emart3.jpg " width="500" height="800">
 </div>
 
 <div style="border: 1px ; float: left; width: 100%;">
