@@ -29,11 +29,11 @@ permalink: /projects/
   <img src="/images/emart/emart1.jpg " height="800">
 </div>
 <div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/emart/emart5.jpg " width="500" height="313">
+  <img src="/images/emart/emart5.jpg " height="313">
 </div>
 
 <div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/emart3.jpg " width="500" height="100%">
+   <img src="/images/emart/emart3.jpg " height="100%">
 </div>
 <div style="border: 1px ; float: left; width: 50%;">
    <img src="/images/emart/emart7.jpg " height="100%">
