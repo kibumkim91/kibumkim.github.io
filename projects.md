@@ -124,8 +124,8 @@ permalink: /projects/
 
 ##### 3. 곤지암 리조트 C/S 및 마케팅 업무 담당
 
-<div style="border: 1px ; float: left; width: 100%;">
-  <img src="/images/etc/etc7.jpg "  height="500" width="313">
+<div style="border: 1px ; float: left; width: 50%;">
+  <img src="/images/etc/etc7.jpg " height="500"   >
 </div>
 
 
