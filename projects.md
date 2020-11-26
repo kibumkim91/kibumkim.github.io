@@ -100,23 +100,6 @@ permalink: /projects/
 
 - 서브라인 및 자료조사 기반 씬 집필
 
-## 활동사진
-
-
-<div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/sch/sch7.jpg " width="500" height="313">
-</div>
-<div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/sch/sch6.jpg " width="500" height="313">
-</div>
-
-<div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/sch/sch3.jpg " width="500" height="313">
-</div>
-<div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/sch/sch5.jpg " width="500" height="313">
-</div>
-
 
 ## 성취 내용
 
