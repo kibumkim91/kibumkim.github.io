@@ -69,14 +69,14 @@ permalink: /projects/
 ## 활동사진
 
 
-<img src="/images/emart/Team2.jpg " width="100%" height="400">
+<img src="/images/emart/Team2.jpg " width="100%" height="800">
 
 <div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/Team3.jpg " width="500" height="313">
+   <img src="/images/emart/Team3.jpg " width="500" 
 </div>
 
 <div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/Team1.jpg " width="500" height="313">
+   <img src="/images/emart/Team1.jpg "  height="800">
 </div>
 
 
