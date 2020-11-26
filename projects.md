@@ -25,8 +25,8 @@ permalink: /projects/
 
 ## 활동사진
 
-<div style="border: 1px ; float: left; width: 50%;">
-  <img src="/images/emart/emart1.jpg " height="313">
+<div style="border: 1px ; float: left; width: 100%;">
+  <img src="/images/emart/emart1.jpg " height="800">
 </div>
 
 <div style="border: 1px ; float: left; width: 50%;">
@@ -37,8 +37,8 @@ permalink: /projects/
    <img src="/images/emart/emart3.jpg " width="500" height="313">
 </div>
 
-<div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/emart7.jpg " width="500" height="313">
+<div style="border: 1px ; float: left; width: 100%;">
+   <img src="/images/emart/emart7.jpg " height="800">
 </div>
 
 
@@ -69,14 +69,14 @@ permalink: /projects/
 ## 활동사진
 
 
-<img src="/images/emart/Team2.jpg " width="100%" height="800">
+<img src="/images/emart/Team2.jpg " width="100%" height="400">
 
 <div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/Team3.jpg " width="500" 
+   <img src="/images/emart/Team3.jpg " width="500" height="313">
 </div>
 
 <div style="border: 1px ; float: left; width: 50%;">
-   <img src="/images/emart/Team1.jpg "  height="800">
+   <img src="/images/emart/Team1.jpg " width="500" height="313">
 </div>
 
 
