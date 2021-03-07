@@ -96,6 +96,10 @@ permalink: /projects/
 
 ##### 2. 협업 시스템 능력 향상
 
+## 참여드라마
+
+<img src="/images/etc/kbs_rama.jpeg " height="400">
+
 
 - - -
 
