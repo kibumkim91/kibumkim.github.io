@@ -98,7 +98,7 @@ permalink: /projects/
 
 ## 참여드라마
 
-<img src="/images/etc/kbs_rama.jpeg " height="400">
+<img src="/images/etc/kbs_drama.jpeg " height="400">
 
 
 - - -
