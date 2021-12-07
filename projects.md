@@ -25,8 +25,6 @@ permalink: /projects/
 
 ## 활동사진
 
-  <img src="/images/emart/emart1.jpg " height="800">
-
   <img src="/images/emart/emart5.jpg " height="313">
 
    <img src="/images/emart/emart3.jpg " height="100%">
